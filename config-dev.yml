@@ -1,1 +1,2 @@
-
+spring:
+  info: config-dev.yml
