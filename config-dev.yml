@@ -1,2 +1,2 @@
 spring:
-  info: config-dev.yml
+  info: config-dev.yml version=1
